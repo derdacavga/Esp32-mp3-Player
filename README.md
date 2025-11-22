@@ -3,4 +3,4 @@ In this proect I will share with you Esp32S3 based mp3 player control by ILI9341
 
 ## Tutorial
 
-[![V2](https://img.youtube.com/vi/NGzJfTrfXys/0.jpg)](https://youtu.be/NGzJfTrfXys)
+[![V2](https://img.youtube.com/vi/3Mk_FJU2H9o/0.jpg)](https://youtu.be/3Mk_FJU2H9o)
