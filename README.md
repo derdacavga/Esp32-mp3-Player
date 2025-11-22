@@ -20,7 +20,9 @@ Sd Card
 ## Links
 
 🔗 IlI9341 Tutorial : https://youtu.be/_0tgx8tezXU?feature=shared
+
 🔗 Other Projects : https://youtube.com/playlist?list=PLPvN12dzH2Dqid3KNB2KNsqxsMcwNSD3b&si=_3gbOH_dAnS6Gp12
+
 🔗 https://github.com/Bodmer/TFT_eSPI 
 
 ## Games
