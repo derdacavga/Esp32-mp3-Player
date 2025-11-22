@@ -61,7 +61,7 @@ void setup() {
   tft.init();
   tft.setRotation(3);
   tft.fillScreen(TFT_BLACK);
-  logo();
+  //logo();
   delay(1000);
   Serial.println("Display OK");
 
