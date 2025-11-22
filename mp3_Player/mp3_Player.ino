@@ -509,5 +509,5 @@ void logo() {
   tft.drawString("DSN", 70, 142);
   tft.setTextColor(TFT_BLACK, TFT_GREEN);
   tft.setFreeFont(&FreeSansBold9pt7b);
-  tft.drawString("Stepper motor Control", 20, 300);
+  tft.drawString("Mp3 PLAYER", 20, 300);
 }
