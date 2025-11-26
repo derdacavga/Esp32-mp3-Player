@@ -1,21 +1,27 @@
 # Esp32-mp3-Player
 In this proect I will share with you Esp32S3 based mp3 player control by ILI9341 Touch display and audio amplifier Max98357A
 
-## Tutorial
+## Tutorial Max98357A Version
 
 [![V2](https://img.youtube.com/vi/3Mk_FJU2H9o/0.jpg)](https://youtu.be/3Mk_FJU2H9o)
+
+## Tutorial DfPlayer Version
+
+[![V2](https://img.youtube.com/vi/sWdzaa1ZRwY/0.jpg)](https://youtu.be/sWdzaa1ZRwY)
 
 ## Components
 
 Esp32s3 Development Board,
 
-ILI9341 Touch Display
+ILI9341 Touch Display,
 
-Max98357A I2S Audio Amplifier
+DfPlayer mini,
 
-3Watt Speaker
+Max98357A I2S Audio Amplifier,
 
-Sd Card
+3Watt Speaker,
+
+Sd Card,
 
 ## Links
 
@@ -24,6 +30,8 @@ Sd Card
 🔗 Other Projects : https://youtube.com/playlist?list=PLPvN12dzH2Dqid3KNB2KNsqxsMcwNSD3b&si=_3gbOH_dAnS6Gp12
 
 🔗 https://github.com/Bodmer/TFT_eSPI 
+
+🔗 https://github.com/DFRobot/DFRobotDFPlayerMini
 
 ## Games
 Maze Escape: https://play.google.com/store/apps/details?id=com.DsnMechanics.MazeEscape
